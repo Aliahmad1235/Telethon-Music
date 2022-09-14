@@ -17,27 +17,27 @@
         "SUPPORT": {
             "description": "Fill there your group username else leave",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "https://t.me/+XAcy8wkH4QQ4NWIy"
         },
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "penuse_mn"
         },
         "BOT_USERNAME": {
             "description": "Fill there your bot username",
             "required": false,
-            "value": "Zaid2_Robot"
+            "value": "music_alihajybot"
         },
         "ASSISTANT_ID": {
             "description": "Fill there your Assistant id",
             "required": true,
-            "value": "1669178360"
+            "value": "11328064"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5489792031:AAGYkYjG8uGHV8-f37iqnDxHfFTUIWPP0g8"
         }
 
     }
